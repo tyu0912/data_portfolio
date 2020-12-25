@@ -1,0 +1,25 @@
+AOBC, 3-Hold
+ATRO, 3-Hold
+BYD, 4-Sell
+CATO, 
+CECO, 
+CINR, 3-Hold
+EPM, 4-Sell
+FF, 3-Hold
+FRAN, 1-Strong Buy
+GME, 3-Hold
+GNTX, 4-Sell
+HBI, 4-Sell
+HDSN, 4-Sell
+IRMD, 4-Sell
+JBLU, 3-Hold
+KATE, 4-Sell
+KFRC, 3-Hold
+PAHC, 3-Hold
+SCS, 3-Hold
+THRM, 4-Sell
+TZOO, 
+USDP, 3-Hold
+VIRC, 4-Sell
+WNC, 1-Strong Buy
+WU, 3-Hold

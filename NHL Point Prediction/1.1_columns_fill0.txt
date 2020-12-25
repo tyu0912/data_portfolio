@@ -1,0 +1,4 @@
+shootoutGoals,0
+shootoutShootingPctg,0
+shootoutGameDecidingGoals,0
+shootoutShots,0

@@ -1,0 +1,172 @@
+0.31594202	savePctg
+0.23623188	saves
+0.18115942	goalsAgainst
+0.10724638	wins
+0.06231884	shotsAgainst
+0.044927537	goalsAgainstAverage
+0.01594203	shutouts
+0.008695652	teamAbbrev_NYR
+0.007246377	timeOnIce
+0.0057971017	gamesStarted
+0.0057971017	otLosses
+0.0014492754	opponentTeamAbbrev_CGY
+0.0014492754	opponentTeamAbbrev_EDM
+0.0014492754	opponentTeamAbbrev_NYI
+0.0014492754	teamAbbrev_ANA
+0.0014492754	teamAbbrev_NSH
+0.0014492754	teamAbbrev_TOR
+0.0	losses
+0.0	ties
+0.0	opponentTeamAbbrev_ANA
+0.0	opponentTeamAbbrev_ARI
+0.0	opponentTeamAbbrev_BOS
+0.0	opponentTeamAbbrev_BUF
+0.0	opponentTeamAbbrev_CAR
+0.0	opponentTeamAbbrev_CBJ
+0.0	opponentTeamAbbrev_CHI
+0.0	opponentTeamAbbrev_COL
+0.0	opponentTeamAbbrev_DAL
+0.0	opponentTeamAbbrev_DET
+0.0	opponentTeamAbbrev_FLA
+0.0	opponentTeamAbbrev_LAK
+0.0	opponentTeamAbbrev_MIN
+0.0	opponentTeamAbbrev_MTL
+0.0	opponentTeamAbbrev_NJD
+0.0	opponentTeamAbbrev_NSH
+0.0	opponentTeamAbbrev_NYR
+0.0	opponentTeamAbbrev_OTT
+0.0	opponentTeamAbbrev_PHI
+0.0	opponentTeamAbbrev_PIT
+0.0	opponentTeamAbbrev_SJS
+0.0	opponentTeamAbbrev_STL
+0.0	opponentTeamAbbrev_TBL
+0.0	opponentTeamAbbrev_TOR
+0.0	opponentTeamAbbrev_VAN
+0.0	opponentTeamAbbrev_VGK
+0.0	opponentTeamAbbrev_WPG
+0.0	opponentTeamAbbrev_WSH
+0.0	teamAbbrev_ARI
+0.0	teamAbbrev_BOS
+0.0	teamAbbrev_BUF
+0.0	teamAbbrev_CAR
+0.0	teamAbbrev_CBJ
+0.0	teamAbbrev_CGY
+0.0	teamAbbrev_CHI
+0.0	teamAbbrev_COL
+0.0	teamAbbrev_DAL
+0.0	teamAbbrev_DET
+0.0	teamAbbrev_EDM
+0.0	teamAbbrev_FLA
+0.0	teamAbbrev_LAK
+0.0	teamAbbrev_MIN
+0.0	teamAbbrev_MTL
+0.0	teamAbbrev_NJD
+0.0	teamAbbrev_NYI
+0.0	teamAbbrev_OTT
+0.0	teamAbbrev_PHI
+0.0	teamAbbrev_PIT
+0.0	teamAbbrev_SJS
+0.0	teamAbbrev_STL
+0.0	teamAbbrev_TBL
+0.0	teamAbbrev_VAN
+0.0	teamAbbrev_VGK
+0.0	teamAbbrev_WPG
+0.0	teamAbbrev_WSH
+0.0	playerName_Aaron Dell
+0.0	playerName_Adam Wilcox
+0.0	playerName_Adin Hill
+0.0	playerName_Al Montoya
+0.0	playerName_Alex Lyon
+0.0	playerName_Alex Stalock
+0.0	playerName_Alexandar Georgiev
+0.0	playerName_Anders Nilsson
+0.0	playerName_Andrei Vasilevskiy
+0.0	playerName_Andrew Hammond
+0.0	playerName_Anton Forsberg
+0.0	playerName_Anton Khudobin
+0.0	playerName_Antti Niemi
+0.0	playerName_Antti Raanta
+0.0	playerName_Ben Bishop
+0.0	playerName_Braden Holtby
+0.0	playerName_Brandon Halverson
+0.0	playerName_Brian Elliott
+0.0	playerName_Calvin Pickard
+0.0	playerName_Cam Talbot
+0.0	playerName_Cam Ward
+0.0	playerName_Carey Price
+0.0	playerName_Carter Hutton
+0.0	playerName_Casey DeSmith
+0.0	playerName_Chad Johnson
+0.0	playerName_Charlie Lindgren
+0.0	playerName_Christopher Gibson
+0.0	playerName_Collin Delia
+0.0	playerName_Connor Hellebuyck
+0.0	playerName_Corey Crawford
+0.0	playerName_Cory Schneider
+0.0	playerName_Craig Anderson
+0.0	playerName_Curtis McElhinney
+0.0	playerName_Daniel Taylor
+0.0	playerName_Darcy Kuemper
+0.0	playerName_David Rittich
+0.0	playerName_Devan Dubnyk
+0.0	playerName_Dylan Ferguson
+0.0	playerName_Eddie Lack
+0.0	playerName_Eric Comrie
+0.0	playerName_Frederik Andersen
+0.0	playerName_Garret Sparks
+0.0	playerName_Harri Sateri
+0.0	playerName_Henrik Lundqvist
+0.0	playerName_J-F Berube
+0.0	playerName_Jack Campbell
+0.0	playerName_Jacob Markstrom
+0.0	playerName_Jake Allen
+0.0	playerName_James Reimer
+0.0	playerName_Jared Coreau
+0.0	playerName_Jaroslav Halak
+0.0	playerName_Jeff Glass
+0.0	playerName_Jimmy Howard
+0.0	playerName_John Gibson
+0.0	playerName_Jon Gillies
+0.0	playerName_Jonathan Bernier
+0.0	playerName_Jonathan Quick
+0.0	playerName_Joonas Korpisalo
+0.0	playerName_Juuse Saros
+0.0	playerName_Kari Lehtonen
+0.0	playerName_Keith Kinkaid
+0.0	playerName_Ken Appleby
+0.0	playerName_Laurent Brossoit
+0.0	playerName_Linus Ullmark
+0.0	playerName_Louis Domingue
+0.0	playerName_Malcolm Subban
+0.0	playerName_Marc-Andre Fleury
+0.0	playerName_Marek Langhamer
+0.0	playerName_Martin Jones
+0.0	playerName_Matt Murray
+0.0	playerName_Maxime Lagace
+0.0	playerName_Michael Hutchinson
+0.0	playerName_Michal Neuvirth
+0.0	playerName_Mike Condon
+0.0	playerName_Mike McKenna
+0.0	playerName_Mike Smith
+0.0	playerName_Ondrej Pavelec
+0.0	playerName_Oscar Dansk
+0.0	playerName_Pekka Rinne
+0.0	playerName_Peter Budaj
+0.0	playerName_Petr Mrazek
+0.0	playerName_Pheonix Copley
+0.0	playerName_Philipp Grubauer
+0.0	playerName_Reto Berra
+0.0	playerName_Roberto Luongo
+0.0	playerName_Robin Lehner
+0.0	playerName_Ryan Miller
+0.0	playerName_Scott Darling
+0.0	playerName_Scott Foster
+0.0	playerName_Scott Wedgewood
+0.0	playerName_Semyon Varlamov
+0.0	playerName_Sergei Bobrovsky
+0.0	playerName_Steve Mason
+0.0	playerName_Thatcher Demko
+0.0	playerName_Thomas Greiss
+0.0	playerName_Tristan Jarry
+0.0	playerName_Tuukka Rask
+0.0	playerPositionCode_G

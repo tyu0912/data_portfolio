@@ -1,0 +1,6 @@
+EPM, 2-Buy, 2016-12-22
+FF, 1-Strong Buy, 2016-12-22
+FRAN, 1-Strong Buy, 2016-12-22
+IRMD, 2-Buy, 2016-12-22
+USDP, 1-Strong Buy, 2016-12-22
+WNC, 1-Strong Buy, 2017-01-22

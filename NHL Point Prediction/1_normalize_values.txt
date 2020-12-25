@@ -1,0 +1,8 @@
+playerHeight
+playerWeight
+shiftsPerGame
+timeOnIcePerGame
+age
+faceoffs
+faceoffsLost
+faceoffsWon
